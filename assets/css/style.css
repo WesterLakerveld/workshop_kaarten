@@ -1,0 +1,51 @@
+body{
+    background-color: green;
+    color: black;
+}
+
+#kaart1{
+    background-color: #fff;
+    position: absolute;
+    width: 149px;
+    border-radius: 5%;
+    margin: 5px;
+    padding: 5px;
+    box-sizing: border-box;
+    font-size: 20px;
+}
+
+.kaart{
+    
+}
+
+#kaart2{
+    margin-left: 25%;
+}
+
+.cornernumbertop{
+    margin-left: 4px;
+
+}
+
+.smallcloverbottom{
+  
+}
+
+.cornernumberbottom{
+    rotate: 180deg;
+    margin-right: 4px;
+ 
+}
+
+.smallcloverbottom{
+rotate: 180deg;
+}
+.pip img{
+height: 140px;
+text-align: center;
+}
+
+
+img.icon{
+    height: 25px;
+}
